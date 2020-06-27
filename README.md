@@ -24,3 +24,16 @@ a lot  of information to take in this go around, so here's me trying to keep up 
 
 `let myBox = ['hello', 1, 2, 3, true, 'hi'];`
 
+
+
+## __While Loops__
+
+
+
+## __For Loops__
+
+**The for loop** runs a block of code as many times as you want to. Here’s a for loop that runs bounceBall ten times:
+
+`for (let i = 0; i < 10; i++) {   bounceBall() }`
+
+It’s broken down into four parts — the **initialExpression**, the **condition**, the **incrementalExpression** , and the **statement**:
